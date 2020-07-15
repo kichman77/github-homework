@@ -26,21 +26,3 @@ body {
 .social-links .link:visited {
   color: indigo;
 }
-.post {
-  /* Стили статьи */
-}
-
-.post-title {
-  /* Стили заголовка */
-}
-
-.post-text {
-  /* Стили текста */
-}
-
-.post-link {
-  /* Стили ссылки */
-}
-
-.post-link:hover {
-  /* Стили ссылки при ховере */
