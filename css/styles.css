@@ -1,15 +1,14 @@
-
-
 body {
+  color: 2a2a2a;
+  background: color rgb(29, 219, 219);
+}
 
-  background: color 2a 2a 2a;
-}
- {
-  color: rgb(8, 7, 7);
 .link {
-  color: teal;
+  color: rgb(29, 219, 219);
 }
-.social-links {color: forestgreen;}
+.social-links {
+  color: forestgreen;
+}
 
 .link:hover {
   color: orange;
